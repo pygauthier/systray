@@ -1,0 +1,2 @@
+Compiler: 
+pyinstaller systray_icon.pyw --add-data *.png;. --icon=icon.ico --noconsole
